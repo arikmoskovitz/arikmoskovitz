@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arikmoskovitz
-- 👀 I’m interested in creating and consuming open source packages, mainly in dotnet, but also others.--
+- 👀 I’m interested in creating and consuming open source packages, mainly in dotnet.
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
